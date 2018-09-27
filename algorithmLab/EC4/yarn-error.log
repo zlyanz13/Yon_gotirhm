@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js start
+
+PATH: 
+  /home/Yn_Wnz/bin:/home/Yn_Wnz/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/ProgramData/Oracle/Java/javapath_target_794080828:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files (x86)/Windows Kits/8.1/Windows Performance Toolkit:/mnt/c/Program Files/Microsoft SQL Server/110/Tools/Binn:/mnt/c/Program Files (x86)/Microsoft SDKs/TypeScript/1.0:/mnt/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/mnt/c/Program Files/PuTTY:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files (x86)/Yarn/bin:/mnt/c/Program Files/nodejs:/mnt/c/Users/Yon Wonze/AppData/Local/Programs/Python/Python36/Scripts:/mnt/c/Program Files/Genymobile/Genymotion/tools:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft VS Code/bin:/mnt/c/Users/Yon Wonze/AppData/Local/Programs/Python/Python36/Scripts:/mnt/c/Users/Yon Wonze/AppData/Local/Programs/Python/Python36:/mnt/c/Users/Yon Wonze/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/Bandizip:/mnt/c/Users/Yon Wonze/AppData/Roaming/npm:/mnt/c/Program Files/Microsoft VS Code/bin:/mnt/c/Users/Yon Wonze/AppData/Local/atom/bin:/mnt/c/Program Files/Genymobile/Genymotion/tools:/snap/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.10.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/mnt/c/Users/Yon Wonze/Desktop/Algorythm/algorithmLab/EC4"
+      at new MessageError (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:186:110)
+      at /mnt/c/Program Files (x86)/Yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:98:30)
+      at /mnt/c/Program Files (x86)/Yarn/lib/cli.js:109:13
+      at <anonymous>
